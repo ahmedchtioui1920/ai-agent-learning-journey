@@ -33,11 +33,6 @@ QA workflows, test cases, edge cases, and bug reports.
 ## architecture/
 Workflow diagrams and architecture explanations.
 
-## daily-progress/
-Daily learning logs and progress tracking.
-
-## interview-prep/
-Interview preparation notes and technical explanations.
 
 ---
 
