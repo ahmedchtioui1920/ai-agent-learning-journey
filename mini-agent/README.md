@@ -1,3 +1,16 @@
-# Mini AI Agent
+# Mini AI Workflow Agent
 
-A simple Python-based workflow project demonstrating basic request classification and structured responses.
+## Overview
+A lightweight Python-based AI workflow simulation project.
+
+## Features
+- Request classification
+- Workflow selection
+- Input validation
+- Structured outputs
+
+## Future Improvements
+- API integration
+- Logging system
+- Multi-step reasoning
+- Memory support

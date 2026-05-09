@@ -1,6 +1,6 @@
 # AI-Assisted Development
 
-## AI Coding Tools
+## Common Tools
 - Cursor
 - Claude
 - OpenAI Codex
@@ -10,13 +10,16 @@
 - Debugging
 - Refactoring
 - Documentation
-- Rapid prototyping
+- Test generation
 
 ## Risks
-- Incorrect code generation
-- Security issues
+- Incorrect implementations
+- Security vulnerabilities
 - Hallucinated APIs
-- Overreliance
+- Reduced code understanding
 
-## Best Practice
-Human review and testing remain essential.
+## Best Practices
+- Human verification
+- Incremental testing
+- Clear specifications
+- Structured review process

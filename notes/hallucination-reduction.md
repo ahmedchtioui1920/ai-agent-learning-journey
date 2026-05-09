@@ -1,14 +1,17 @@
 # Hallucination Reduction
 
-## What is Hallucination?
-Hallucination happens when an AI model generates incorrect or fabricated information.
+## Definition
+Hallucination occurs when a model generates false or unsupported information.
 
-## Reduction Techniques
-- Clear instructions
-- Limited scope
-- Structured output formats
-- Verification steps
-- Grounded context
+## Reduction Strategies
+- Restrict output scope
+- Use structured outputs
+- Add validation layers
+- Provide grounded context
+- Reduce ambiguity
 
 ## Example
-Ask the model to answer only using provided information instead of generating unsupported assumptions.
+Ask the model to answer only using the provided context.
+
+## Key Insight
+Good prompting alone is not enough. Validation is essential.

@@ -1,25 +1,29 @@
 # AI Agent Basics
 
-## What is an AI Agent?
-An AI agent is a system that uses a large language model together with tools, workflows, memory, and decision-making logic to perform tasks automatically.
+## Definition
+An AI agent is a system that combines a language model with workflows, tools, memory, and decision-making logic to perform tasks automatically.
 
 ## Core Components
 - LLM (Large Language Model)
-- Prompt
+- Prompt System
 - Memory
-- Tools
-- Workflow
-- Output evaluation
+- External Tools
+- Decision Logic
+- Workflow Management
 
-## Example Workflow
-1. User gives input
+## Workflow Example
+1. User provides input
 2. Agent analyzes request
-3. Agent selects action
-4. Tool or logic executes task
-5. Agent returns response
+3. Agent selects workflow
+4. Tool execution occurs
+5. Output is validated
+6. Final response is returned
 
-## Important Concepts
+## Key Challenges
+- Hallucinations
 - Reliability
-- Hallucination reduction
-- Structured outputs
-- Validation
+- Context management
+- Output validation
+
+## Learning Notes
+AI agents are more than chatbots because they combine reasoning, workflows, and actions.

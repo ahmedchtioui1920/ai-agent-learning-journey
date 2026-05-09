@@ -1,22 +1,23 @@
 # Prompt Engineering
 
-## Goal
-Prompt engineering improves the reliability and quality of LLM outputs.
+## Objective
+Prompt engineering improves the quality, structure, and reliability of AI outputs.
 
-## Good Prompt Practices
+## Important Techniques
 - Clear instructions
-- Structured output format
-- Constraints
-- Examples
-- Context
+- Output constraints
+- Step-by-step reasoning
+- Structured formatting
+- Context injection
+- Few-shot examples
 
 ## Example
 
 ### Weak Prompt
-Write something about AI.
+Explain AI.
 
 ### Improved Prompt
-Explain AI agents in 5 bullet points for beginner software engineering students.
+Explain AI agents to first-year computer science students using 5 concise bullet points.
 
-## Key Learning
-Better prompts create more predictable and useful outputs.
+## Observation
+Specific instructions improve consistency and reduce ambiguity.

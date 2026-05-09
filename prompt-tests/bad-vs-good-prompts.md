@@ -1,10 +1,22 @@
-# Prompt Evaluation Examples
+# Prompt Comparison Examples
 
-## Bad Prompt
-Explain programming.
+## Example 1
 
-## Improved Prompt
-Explain object-oriented programming to first-year computer science students using simple examples.
+### Weak Prompt
+Write about programming.
 
-## Observation
-Specific prompts improve clarity and consistency.
+### Improved Prompt
+Explain object-oriented programming to beginner computer science students using simple examples.
+
+## Result
+The improved prompt produces clearer and more focused outputs.
+
+---
+
+## Example 2
+
+### Weak Prompt
+Summarize this.
+
+### Improved Prompt
+Summarize the following text in exactly 3 bullet points focused on technical concepts.

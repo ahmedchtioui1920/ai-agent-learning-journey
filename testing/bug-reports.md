@@ -1,14 +1,17 @@
 # Bug Reports
 
 ## Bug 1
-Title: Program crashes on empty input
+Title: Empty input causes unexpected behavior
 
-Steps:
-1. Run the program
-2. Press enter without text
+### Steps to Reproduce
+1. Start the application
+2. Press enter without input
 
-Expected:
-Validation message
+### Expected Behavior
+Validation warning appears
 
-Actual:
-Unexpected behavior
+### Actual Behavior
+Unexpected output
+
+### Severity
+Medium
